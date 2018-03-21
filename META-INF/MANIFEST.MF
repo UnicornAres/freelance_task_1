@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: ARES (AREJIM Inc.)
+Main-Class: pro.arejim.clipboard.commenter.main.Main
+
