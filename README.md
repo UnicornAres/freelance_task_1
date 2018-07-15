@@ -15,5 +15,7 @@
       Возможен одновременный запуск только одного экземпляра приложения.
       Файл с записями сохраняется в той же директори, где расположена сама программа.
 
+***Окно комментирования заметок***
 ![Screenshot_1](https://github.com/xAPECx/freelance_task_1/raw/master/images/Screenshot_1.png)
+***Сохранённый файл***
 ![Screenshot_2](https://github.com/xAPECx/freelance_task_1/raw/master/images/Screenshot_2.png)
