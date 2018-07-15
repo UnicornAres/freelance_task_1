@@ -17,8 +17,8 @@
 
 ***Окно комментирования заметок***
 
-	![Screenshot_1](https://github.com/xAPECx/freelance_task_1/raw/master/images/Screenshot_1.png)
-
+![Screenshot_1](https://github.com/xAPECx/freelance_task_1/raw/master/images/Screenshot_1.png)
+	
 ***Сохранённый файл***
 
-	![Screenshot_2](https://github.com/xAPECx/freelance_task_1/raw/master/images/Screenshot_2.png)
+![Screenshot_2](https://github.com/xAPECx/freelance_task_1/raw/master/images/Screenshot_2.png)
