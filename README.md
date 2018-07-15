@@ -14,3 +14,6 @@
 
       Возможен одновременный запуск только одного экземпляра приложения.
       Файл с записями сохраняется в той же директори, где расположена сама программа.
+
+![Screenshot_1](https://github.com/xARESx/freelance_task_1/raw/master/images/Screenshot_1.png)
+![Screenshot_2](https://github.com/xARESx/freelance_task_1/raw/master/images/Screenshot_2.png)
